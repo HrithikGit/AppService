@@ -1,0 +1,13 @@
+{
+    "crimetype":[
+        {
+            "ctype":"Bank Fruad"
+        },
+        {
+            "ctype":"CryptoCurreny"
+        },
+        {
+            "ctype":"Email Fraud"
+        }
+	]
+}
