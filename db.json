@@ -1,3 +1,13 @@
 {
-    "crimetype":[{"Bank Fruad"} ,{"CryptoCurreny"},{"Email Fraud"}]
+  "crimetypes":[
+    {
+      "ctype":"Hacking"
+    },
+    {
+      "ctype":"Lavda"
+    },
+    {
+      "ctype":"Fraud"
+    }
+  ]
 }
