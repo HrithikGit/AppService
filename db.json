@@ -1,13 +1,43 @@
 {
   "crimetypes":[
     {
-      "ctype":"Hacking"
+      "ctype":"Email Fraud"
     },
     {
-      "ctype":"Money Transfer"
+      "ctype":"Crypto Currency Theft or Hack"
     },
     {
-      "ctype":"Fraud"
+      "ctype":"Bank Fraud"
+    },
+    {
+      "ctype":"Fraudulent Company"
+    },
+    {
+      "ctype":"Hacking Incident"
+    },
+    {
+      "ctype":"Malware / Spyware"
+    },
+    {
+      "ctype":"Online Fraud"
+    },
+    {
+      "ctype":"Social Media Fraud"
+    },
+    {
+      "ctype":"Phone / SMS"
+    },
+    {
+      "ctype":"Investment Scam"
+    },
+    {
+      "ctype":"Extortion / Blackmail"
+    },
+    {
+      "ctype":"Stock / Share Fraud"
+    },
+    {
+      "ctype":"Other"
     }
   ]
 }
