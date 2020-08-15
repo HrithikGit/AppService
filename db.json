@@ -39,5 +39,49 @@
     {
       "ctype":"Other"
     }
-  ]
+  ],
+  "attacksource" : [
+        {
+            "sourcename":"Amazon"
+        },
+        {
+            "sourcename":"Facebook"
+        },
+        {
+            "sourcename":"BEC Fraud"
+        },
+        {
+            "sourcename":"Dating Apps"
+        },
+        {
+            "sourcename":"Ebay"
+        },
+        {
+            "sourcename":"Email"
+        },
+        {
+            "sourcename":"Instagram"
+        },
+        {
+            "sourcename":"LinkedIn"
+        },
+        {
+            "sourcename":"OLX"
+        },
+        {
+            "sourcename":"Phone/SMS"
+        },
+        {
+            "sourcename":"WhatsApp"
+        },
+        {
+            "sourcename":"SnapChat"
+        },
+        {
+            "sourcename":"Unauthorized Credit Card Charge"
+        },
+        {
+            "sourcename":"Other"
+        }
+    ]
 }
